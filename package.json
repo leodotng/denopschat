@@ -1,0 +1,24 @@
+{
+  "name": "denopschat",
+  "version": "1.0.0",
+  "description": "Denver Operations Command Center Chat",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leodotng/denopschat.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "~4.17.1",
+    "socket.io": "^4.0.0"
+  },
+  "bugs": {
+    "url": "https://github.com/leodotng/denopschat/issues"
+  },
+
+  "homepage": "https://github.com/leodotng/denopschat#readme",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
